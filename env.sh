@@ -1,0 +1,11 @@
+#!/bin/bash
+export TOR_VERSION="0.4.5.6"
+export OR_PORT="9001"
+export DIR_PORT="9030"
+export NICKNAME="YourNicknameHere"
+export CONTACT_INFO="None"
+export BANDWIDTH_RATE="20 MBytes"
+export BANDWIDTH_BURST="20 MBytes"
+export MAX_MEM="8 GB"
+export ACCOUNTING_MAX="0"
+export ACCOUNTING_START="month 1 00:00"
