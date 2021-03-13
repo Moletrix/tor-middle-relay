@@ -1,3 +1,5 @@
+#!/bin/bash
+
 FROM ubuntu:xenial
 MAINTAINER "Brecht Bekaert" <brecht@bekaert.cloud>
 
