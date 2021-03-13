@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ "$(whoami)" == "root" ]; then
   # Fix if the container is launched with the root (host) user
   if [ $HOST_UID -eq 0 ]; then
